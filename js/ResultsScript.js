@@ -1,8 +1,10 @@
 document.addEventListener("DOMContentLoaded", function() {
+    console.log("loaded");
     displayInfo();
 });
 
 function displayInfo() {
+    console.log("in");
     var bmiValueElement = document.querySelector("#bmiValueElement");
     var bmiStatusElement = document.querySelector("#bmiStatusElement");
     var bmiStatusMessage = document.querySelector("#bmiStatusMessage");
