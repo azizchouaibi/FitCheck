@@ -7,7 +7,8 @@ FitCheck is a dynamic and user-friendly web application designed to provide pers
 * Interactive UI: Clean and responsive design for an intuitive user experience.
 * Exercise Repository: A rich database of exercises with descriptions, difficulty levels, and accompanying visuals.
 * Data-Driven: Utilizes a structured backend powered by PostgreSQL for scalable and reliable data management.
---Technologies Used:
+
+-- Technologies Used:
 * Frontend: HTML, CSS, Bootstrap
 * Backend: PHP
 * Database: PostgreSQL
